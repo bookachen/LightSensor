@@ -1,0 +1,2 @@
+# LightSensor
+Homekit Light Sensor
